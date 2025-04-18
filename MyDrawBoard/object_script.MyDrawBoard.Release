@@ -1,0 +1,10 @@
+release/BoardGraphicsScene.o
+release/BoardGraphicsview.o
+release/ShapeButton.o
+release/ShapeGraph.o
+release/global.o
+release/main.o
+release/DrawBoard.o
+release/moc_BoardGraphicsview.o
+release/moc_DrawBoard.o
+release/moc_ShapeButton.o

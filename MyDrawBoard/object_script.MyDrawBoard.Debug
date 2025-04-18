@@ -1,0 +1,10 @@
+debug/BoardGraphicsScene.o
+debug/BoardGraphicsview.o
+debug/ShapeButton.o
+debug/ShapeGraph.o
+debug/global.o
+debug/main.o
+debug/DrawBoard.o
+debug/moc_BoardGraphicsview.o
+debug/moc_DrawBoard.o
+debug/moc_ShapeButton.o
